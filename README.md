@@ -8,5 +8,3 @@
 ### 3. Enable Developer Mode(in upper right corner).
 ### 4. Import the folder that contains this repository.
 ### 5. Now you are ready to use this extension.
-
-.
