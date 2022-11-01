@@ -6,7 +6,7 @@
   <img src="Screenshot.jpg" width="1000" title="hover text">
 </p> -->
 
-![ScreenShot](screenshot.jpg)
+![ScreenShot](https://github.com/parthsali/Google-Chrome-Color-Picker-Extension/blob/main/Screenshot.jpg)
 
 ## How to use it:
  ### 1. Download this repository(zip file).
