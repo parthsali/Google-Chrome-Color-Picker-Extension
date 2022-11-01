@@ -3,7 +3,7 @@
 ## For MacOS, Windows & Linux
 
 <p align="center">
-  <img src="Screenshot (16).png" width="350" title="hover text">
+  <img src="Screenshot (16).png" width="600" title="hover text">
 </p>
 
 ## How to use it:
