@@ -2,6 +2,10 @@
 
 ## For MacOS, Windows & Linux
 
+<p align="center">
+  <img src="Screenshot (16).png" width="350" title="hover text">
+</p>
+
 ## How to use it:
  ### 1. Download this repository(zip file).
  ### 2. Go to chrome://extensions
