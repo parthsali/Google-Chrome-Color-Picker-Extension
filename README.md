@@ -2,9 +2,11 @@
 
 ## For MacOS, Windows & Linux
 
-<p align="center">
+<!-- <p align="center">
   <img src="Screenshot.jpg" width="1000" title="hover text">
-</p>
+</p> -->
+
+![ScreenShot](screenshot.jpg)
 
 ## How to use it:
  ### 1. Download this repository(zip file).
