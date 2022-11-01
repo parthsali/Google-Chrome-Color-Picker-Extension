@@ -1,6 +1,6 @@
 # Color Picker - Google Chrome Extension
 
-## For MacOS, Windows & Linux
+## Grab colors from any website with our Color Picker chrome extension. It offers the HEX code on any element. 
 
 <!-- <p align="center">
   <img src="Screenshot.jpg" width="1000" title="hover text">
